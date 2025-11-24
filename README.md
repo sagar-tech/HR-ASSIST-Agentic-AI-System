@@ -39,6 +39,7 @@ Add the following configuration to your claude_desktop_config.json file:
 - Click on the `+` icon and select the `Add from hr-assist` option, and send the request.
 - Fill the details for the new employee:
 
-<img src="resources\image.jpg" alt="Claude desktop prompt with fields" style="width:auto;height:300px;padding-left:30px">
+<img width="849" height="590" alt="image" src="https://github.com/user-attachments/assets/87da4ddb-1a2a-4ef5-89e2-da83e86d8d9c" />
+
 
 Alternatively, you can draft a custom prompt and let the agent take over.
